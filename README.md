@@ -1,1 +1,2 @@
 # Pinnacle_Club
+Department of E&TC Engineering has student's club named 'Pinnacle Club'. Students of second, third and final year of department can be added as a member.Similarly their membership of club can be cancelled. Club membership should be maintained according to their year. First node in each list is reserved for president of club and last node is reserved for secretary of club. Write C++ program to maintain club members information using singly linked list. Store student PRN and Name.
